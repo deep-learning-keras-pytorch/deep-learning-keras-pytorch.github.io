@@ -12,7 +12,7 @@
 
 ## Índice:
 
-**PARTE I: INTRODUCCIÓN**
+### PARTE I: INTRODUCCIÓN
 
 * Capítulo 1 - Introducción al Deep learning
 
@@ -20,16 +20,16 @@
 
 * Capítulo 3 - Keras y PyTorch
 
-**PARTE II: FUNDAMENTOS**
+### PARTE II: FUNDAMENTOS
 
 * Capítulo 4 - Perceptrón multicapa
-    * Caso de estudio en Keras
-    * Caso de estudio en PyTorch
+    * [Caso de estudio en Keras]()
+    * [Caso de estudio en PyTorch]()
 
 * Capítulo 5 - Redes neuronales convolucionales
 * Capítulo 6 - Redes recurrentes
 
-**PARTE III - CONCEPTOS AVANZADOS**
+### PARTE III - CONCEPTOS AVANZADOS
 
 * Capítulo 7 - Técnicas avanzadas
 * Capítulo 8 - Transfer learning

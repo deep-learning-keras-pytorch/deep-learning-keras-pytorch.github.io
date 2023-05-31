@@ -11,7 +11,9 @@ hide:
   - toc
 
 theme:
-    language: en
+    features:
+        - toc.integrate
+    language: es
     name: 'material'
     palette:
         primary: 'Indigo'
