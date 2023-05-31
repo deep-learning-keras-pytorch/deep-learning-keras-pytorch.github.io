@@ -1,6 +1,10 @@
+---
 hide:
-    - navigation
-    - toc
+  - navigation
+  - toc
+---
+
+...
 
 site_name:  Deep Learning con Keras y PyTorch
 use_directory_urls: false
