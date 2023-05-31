@@ -1,16 +1,9 @@
 # Deep Learning con Keras y PyTorch
 
-## Autores
+María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido,  Antonio Ríos, José Javier Valero
 
-* María Alfaro
-* Jorge Calvo
-* Antonio Javier Gallego
-* Carlos Garrido
-* Antonio Ríos
-* José Javier Valero
+<br>
 
-
-## Índice:
 
 ### PARTE I: INTRODUCCIÓN
 
