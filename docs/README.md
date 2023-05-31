@@ -2,10 +2,8 @@
 
 María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido,  Antonio Ríos, José Javier Valero
 
-<br>
 
-
-### PARTE I: INTRODUCCIÓN
+## PARTE I: INTRODUCCIÓN
 
 * Capítulo 1 - Introducción al Deep learning
 
@@ -13,7 +11,7 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido,  Antonio Rí
 
 * Capítulo 3 - Keras y PyTorch
 
-### PARTE II: FUNDAMENTOS
+## PARTE II: FUNDAMENTOS
 
 * Capítulo 4 - Perceptrón multicapa
     * [Caso de estudio en Keras]()
@@ -22,7 +20,7 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido,  Antonio Rí
 * Capítulo 5 - Redes neuronales convolucionales
 * Capítulo 6 - Redes recurrentes
 
-### PARTE III - CONCEPTOS AVANZADOS
+## PARTE III - CONCEPTOS AVANZADOS
 
 * Capítulo 7 - Técnicas avanzadas
 * Capítulo 8 - Transfer learning
