@@ -6,6 +6,10 @@ use_directory_urls: false
 #    - pdf-export:
 #        combined: true
 
+hide:
+  - navigation
+  - toc
+
 theme:
     language: en
     name: 'material'
@@ -23,9 +27,9 @@ theme:
 # los excesivos derivados que se definen en
 # https://github.com/MihaiValentin/lunr-languages/blob/master/lunr.es.js
 
-extra:
-    search:
-        language: 'en'
+#extra:
+#    search:
+#        language: 'en'
 
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
@@ -40,6 +44,7 @@ markdown_extensions:
     - footnotes
     - meta
     - sane_lists
-    - toc:
-       permalink: true
-       toc_depth: 3
+
+#    - toc:
+#       permalink: true
+#       toc_depth: 3
