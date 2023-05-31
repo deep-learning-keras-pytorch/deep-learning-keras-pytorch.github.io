@@ -1,0 +1,45 @@
+site_name:  Deep Learning con Keras y PyTorch
+use_directory_urls: false
+
+#plugins:
+#    - search
+#    - pdf-export:
+#        combined: true
+
+theme:
+    language: en
+    name: 'material'
+    palette:
+        primary: 'Indigo'
+        accent: 'Indigo'
+    font:
+        text: 'Roboto'
+        code: 'Roboto Mono'
+    #logo: 'assets/logo.png'
+
+# Ponemos como idioma de búsqueda el inglés
+# para conseguir que busque correctamente
+# todas las palabras en castellano, sin eliminar
+# los excesivos derivados que se definen en
+# https://github.com/MihaiValentin/lunr-languages/blob/master/lunr.es.js
+
+extra:
+    search:
+        language: 'en'
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+
+#     - pymdownx.superfences
+#    - pymdownx.arithmatex
+markdown_extensions:
+    - admonition
+    - codehilite:
+        linenums: true
+    - footnotes
+    - meta
+    - sane_lists
+    - toc:
+       permalink: true
+       toc_depth: 3
