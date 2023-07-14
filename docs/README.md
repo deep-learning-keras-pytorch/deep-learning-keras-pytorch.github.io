@@ -20,10 +20,10 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 - Capítulo 5 - Redes neuronales convolucionales
 
   - [Caso de estudio en Keras]()
-  - [Caso de estudio en PyTorch](docs/cap5/Cap5_PyTorch.ipynb)
+  - [Caso de estudio en PyTorch](cap5/Cap5_PyTorch.ipynb)
 
 - Capítulo 6 - Redes neuronales recurrentes
-  - [Caso de estudio en Keras](docs/cap6/Cap6_Keras.ipynb)
+  - [Caso de estudio en Keras](cap6/Cap6_Keras.ipynb)
   - [Caso de estudio en PyTorch]()
 
 ## PARTE III - CONCEPTOS AVANZADOS
