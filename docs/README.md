@@ -28,10 +28,10 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 ## PARTE III - CONCEPTOS AVANZADOS
 
-- Capítulo 7 - Técnicas avanzadas
+- Capítulo 7 - Convergencia y ajuste de modelos
 
   - [Caso de estudio en Keras]()
-  - [Caso de estudio en PyTorch]()
+  - [Caso de estudio en PyTorch](cap7/Cap7_PyTorch.ipynb)
 
 - Capítulo 8 - Visión por computador
 
