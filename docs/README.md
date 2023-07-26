@@ -14,8 +14,8 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 - Capítulo 4 - Perceptrón multicapa
 
-  - [Caso de estudio en Keras]()
-  - [Caso de estudio en PyTorch]()
+  - [Caso de estudio en Keras](cap4/Cap4_Keras.ipynb)
+  - [Caso de estudio en PyTorch](cap4/Cap4_PyTorch.ipynb)
 
 - Capítulo 5 - Redes neuronales convolucionales
 
@@ -30,22 +30,21 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 - Capítulo 7 - Convergencia y ajuste de modelos
 
-  - [Caso de estudio en Keras]()
+  - [Caso de estudio en Keras](cap7/Cap7_Keras.ipynb)
   - [Caso de estudio en PyTorch](cap7/Cap7_PyTorch.ipynb)
 
 - Capítulo 8 - Visión por computador
 
   - [Caso de estudio en Keras](cap8/Cap8_Keras.ipynb)
-  - [Caso de estudio en PyTorch]()
+  - [Caso de estudio en PyTorch](cap8/Cap8_PyTorch.ipynb)
 
 - Capítulo 9 - Procesamiento de lenguaje natural
 
-  - [Caso de estudio en Keras]()
-  - [Caso de estudio en PyTorch]()
+  - [Caso de estudio en Keras](cap9/Cap9_Keras.ipynb)
+  - [Caso de estudio en PyTorch](cap9/Cap9_PyTorch.ipynb)
 
 - Capítulo 10 - Siguientes pasos
-  - [Caso de estudio en Keras]()
-  - [Caso de estudio en PyTorch]()
+  - [Reducción de dimensionalidad mediante t-SNE](cap10/MNIST_tSNE.ipynb)
 
 <br>
 
