@@ -19,12 +19,12 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 - Capítulo 5 - Redes neuronales convolucionales
 
-  - [Caso de estudio en Keras]()
+  - [Caso de estudio en Keras](cap5/Cap5_Keras.ipynb)
   - [Caso de estudio en PyTorch](cap5/Cap5_PyTorch.ipynb)
 
 - Capítulo 6 - Redes neuronales recurrentes
   - [Caso de estudio en Keras](cap6/Cap6_Keras.ipynb)
-  - [Caso de estudio en PyTorch]()
+  - [Caso de estudio en PyTorch](cap6/Cap6_PyTorch.ipynb)
 
 ## PARTE III - CONCEPTOS AVANZADOS
 
@@ -35,7 +35,7 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 - Capítulo 8 - Visión por computador
 
-  - [Caso de estudio en Keras]()
+  - [Caso de estudio en Keras](cap8/Cap8_Keras.ipynb)
   - [Caso de estudio en PyTorch]()
 
 - Capítulo 9 - Procesamiento de lenguaje natural
