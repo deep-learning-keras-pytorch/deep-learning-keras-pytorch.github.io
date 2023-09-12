@@ -40,7 +40,7 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 - Capítulo 9 - Procesamiento de lenguaje natural
 
-  - [Caso de estudio en Keras](Cap9/Cap9_Keras.ipynb)
+  - [Caso de estudio en Keras+HuggingFace](Cap9/Cap9_Keras+Hugging_Face.ipynb)
   - [Caso de estudio en PyTorch](Cap9/Cap9_PyTorch.ipynb)
 
 - Capítulo 10 - Siguientes pasos
