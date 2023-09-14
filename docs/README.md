@@ -1,8 +1,12 @@
 # Deep Learning con Keras y PyTorch
 
-### Repositorio oficial del libro ["Deep Learning con Keras y PyTorch"](https://anayamultimedia.es/libro/manuales-imprescindibles/deep-learning-con-keras-y-pytorch-antonio-javier-gallego-sanchez-9788441548169/) de ANAYA MULTIMEDIA.
+<h3>
+Repositorio oficial del libro "<a href="https://anayamultimedia.es/libro/manuales-imprescindibles/deep-learning-con-keras-y-pytorch-antonio-javier-gallego-sanchez-9788441548169/">Deep Learning con Keras y PyTorch</a>" de ANAYA MULTIMEDIA.
+</h3>
 
 María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Ríos, José Javier Valero
+
+---
 
 <br>
 
