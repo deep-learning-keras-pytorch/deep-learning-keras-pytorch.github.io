@@ -57,9 +57,7 @@ María Alfaro, Jorge Calvo, Antonio Javier Gallego, Carlos Garrido, Antonio Río
 
 <br>
 
-<br>
-
-### Puntos de venta del libro:
+## Puntos de venta del libro
 
 * [Amazon](https://www.amazon.es/dp/8441548161)
 * [Casa del Libro](https://www.casadellibro.com/libro-deep-learning-con-keras-y-pytorch/9788441548169/14177498)
